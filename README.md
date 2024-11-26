@@ -51,9 +51,6 @@ Modify the CSS variables in the `:root` selector to change:
 - Toggle button color
 - Border color
 
-## Preview
-
-![Toggle Buttons Preview](preview.png)
 
 ## License
 
